@@ -38,11 +38,9 @@
 </p>
 
 ## Contacta conmigo:
-<a href="www.linkedin.com/in/sorayaac">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sorayaac/)](https://www.linkedin.com/in/sorayaac/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:salonsocuesta@gmail.com)](mailto:salonsocuesta@gmail.com)
 
 
 
