@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
 
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sorayaac/)](https://www.linkedin.com/in/sorayaac/)
 
 
 
