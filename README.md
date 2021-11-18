@@ -37,7 +37,10 @@
 
 </p>
 
-
+## Contacta conmigo:
+<a href="www.linkedin.com/in/sorayaac">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sorayaac/">
+  </a>
 
 
 
