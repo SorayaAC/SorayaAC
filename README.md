@@ -12,7 +12,7 @@
 
 
 
-## <img src="https://img.icons8.com/nolan/64/high-importance.png"/> Sobre mi:
+## <img src="https://img.icons8.com/nolan/64/high-importance.png"/> Sobre mí:
 
 
 ## <img src="https://img.icons8.com/nolan/64/administrative-tools.png"/> Lenguajes y herramientas:
